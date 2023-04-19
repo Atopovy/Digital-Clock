@@ -1,0 +1,18 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #000;
+}
+
+.clock {
+  color: #0ff;
+  text-align: center;
+  color: #17d4fe;
+  letter-spacing: 7px;
+  font-family: Orbitron;
+  font-size: 60px;
+  position: relative;
+  top: 50%;
+}
+
+/*# sourceMappingURL=index.8353e49f.css.map */
